@@ -1,7 +1,7 @@
 ## Day 3 Loops and Sequences 
 
 - Theory:
-- Loops and Sequences (31 steps)
+- Loops and Sequences 
     - Working with loops and sequences 
         - What Are Lists and How Do They Work?
         - What Are Some Common Methods Used for Lists?
