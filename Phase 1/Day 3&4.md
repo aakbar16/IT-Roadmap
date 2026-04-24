@@ -1,18 +1,21 @@
 ## Day 3 Loops and Sequences 
 
-### FreeCode Camp:
+- Theory:
 - Loops and Sequences (31 steps)
-  - Working with loops and sequences (theory)
-    - What Are Lists and How Do They Work?
-    - What Are Some Common Methods Used for Lists?
-    - What Are Tuples and How Do They Work?
-    - What Are Some Common Methods for Tuples?
-    - How Do Loops Work?
-    - What Are Ranges and How Can You Use Them in a Loop?
-    - What Are the Enumerate and Zip Functions and How Do They Work?
-    - What Are List Comprehensions and What Are Some Useful Functions to Work With Lists?
-    - What Are Lambda Functions and How Do They Work?
-  - Build a pin extractor (lab 1 -19 steps)
+    - Working with loops and sequences 
+        - What Are Lists and How Do They Work?
+        - What Are Some Common Methods Used for Lists?
+        - What Are Tuples and How Do They Work?
+        - What Are Some Common Methods for Tuples?
+        - How Do Loops Work?
+        - What Are Ranges and How Can You Use Them in a Loop?
+        - What Are the Enumerate and Zip Functions and How Do They Work?
+        - What Are List Comprehensions and What Are Some Useful Functions to Work With Lists?
+        - What Are Lambda Functions and How Do They Work?
+
+- Workshop:
+    - Build a pin extractor 
+  
 
 
 ### Codecademy:
@@ -25,11 +28,13 @@
 
 ## Day 4
 
-### FreeCode Camp:
-- Build a pin extractor (lab 1 -19 steps)
-- Build a number pattern generator (lab)
-- Loops and Sequences Review
-- Loops and Sequences Quiz
+- Lab 
+    - Build a number pattern generator 
 
 
-### MINI PROJECT: Student Performance Analyzer (CLI App)   
+- Review: 
+    - Loops and Sequences Review
+    - Loops and Sequences Quiz
+
+- Project
+    - MINI PROJECT: Student Performance Analyzer (CLI App)   

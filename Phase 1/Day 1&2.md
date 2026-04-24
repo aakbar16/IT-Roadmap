@@ -1,43 +1,35 @@
-## Day 1 — Python Basics (102 Steps)
+## Day 1 — Python Basics 
 
-### FreeCodeCamp 
+- Theory:
 
-- Introduction to Python (Theory)
-  - What is Python and common industry uses
-  - Installing, configuring, and using Python locally
+- Introduction to Python 
+    - What is Python and common industry uses
+    - Installing, configuring, and using Python locally
 
-- Understanding Variables & Data Types (Theory)
-  - Declaring variables
-  - Naming conventions
-  - How `print()` works
-  - Common data types and using `type()`
+- Understanding Variables & Data Types 
+    - How Do You Declare Variables and What Are Naming Conventions to Name Variables?
+    - How Does the Print Function Work?
+    - What Are Common Data Types in Python and How Do You Get the Type of a Variable?
 
-- Lab
-  - Build a Report Card Printer (Steps 1–10)
-
-- Introduction to Strings (Theory)
-  - What are strings and immutability
-  - Concatenation and interpolation
-  - String slicing
-  - Common string methods
-
-- Lab
-  - Build an Employee Profile Generator (Steps 1–18)
+- Introduction to Strings 
+    - What Are Strings and What Is String Immutability?
+    - What Are String Concatenation and String Interpolation?
+    - What Is String Slicing and How Does It Work?
+    - What Are Some Common String Methods?
 
 - Numbers & Mathematical Operations
-  - Integers vs floating-point numbers
-  - Augmented assignments
+    - How Do You Work With Integers and Floating Point Numbers?
+    - How Do Augmented Assignments Work?
 
-- Lab
-  - Build a Bill Splitter (Steps 1–8)
+- Booleans & Conditionals     
+    - How Do Conditional Statements and Logical Operators Work?
+    - What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
 
-- Booleans & Conditionals (Theory)
-  - Conditional statements and logical operators
-  - Truthy vs falsy values
-  - Short-circuiting
 
-- Lab
-  - Build a Movie Ticket Booking Calculator (Steps 1–21)
+- Workshop:
+    - Build a Report Card Printer 
+    - Build an Employee Profile Generator
+    - Build a Bill Splitter
 
 
 ### Codecademy
@@ -52,23 +44,20 @@
 
 ## Day 2
 
-### FreeCodeCamp
+- Theory:
+- Understanding Functions & Scope (Theory)
+    - How functions work in Python
+    - Scope and how it works
+
+- Workshop:
+    - Build a movie ticket booking calculator
+    - Build a Caesar Cipher 
 
 - Lab
   - Build a Travel Weather Planner
-
-- Understanding Functions & Scope (Theory)
-  - How functions work in Python
-  - Scope and how it works
-
-- Lab
   - Build an Apply Discount Function
-
-- Lab
-  - Build a Caesar Cipher (Steps 1–25)
-
-- Lab
   - Build an RPG Character
+
 
 - Review
   - Python Basics Review
