@@ -1,16 +1,17 @@
-## Day 8 -  Classes and Objects  
+## Day 8 -  Object-Oriented Programming  
 
-### FreeCodeCamp 
 
-- Classes and Objects  (theory)
-    - How Do Classes Work and How Do They Differ From Objects?
-    - What Are Methods and Attributes, and How Do They Work?
-    - What Are Special Methods and What Are They Used For?
-    - How to Handle Object Attributes Dynamically?
-
-- Projects:     
-    - Build a Musical Instrument inventory (lab 1- 13)
-    - Build a planet class (lab)
+- Theory:
+- Understanding the Object-Oriented Programming and Encapsulation 
+    - What is Object-Oriented Programming, and How Does Encapsulation Work?
+    - What are Getters and Setters
+- Understanding inheritance and polymorphism 
+    - What Is Inheritance and How Does It Promote Code Reuse?
+    - What Is Polymorphism and How Does It Promote Code Reuse?
+    - What is Name Mangling and How Does it Work?
+- Labs:
+    - Build a salary tracker
+	- Build a game character stats tracker 
 
 ### Course Academy 
 
@@ -20,9 +21,17 @@
 
 ## Day 9
 
-- Build an email simulator (lab 1 -51 steps)
-- Classes and Objects review 
-- Classes and Objects quiz 
-- Build a budget app (project) 
+- Theory:
+- Understanding abstraction 
+    - What Is Abstraction and How Does It Help Keep Complex Systems Organized?
 
 
+- Labs:
+    - Build a media catalog 
+    - Build a discount calculator 
+	- Build a player interface 
+
+
+
+- Projects:     
+    - Build a Polygon Area Calculator

@@ -1,8 +1,8 @@
-## Day 7
+## Day 6 Error Handling 
 
 - Theory
-    - Error Handling ( 7 steps)
-        - Understanding error handling (theory)
+    - Error Handling 
+        - Understanding error handling 
         - What Are Some Common Error Messages in Python?
         - What Are Some Good Debugging Techniques in Python?
         - How Does Exception Handling Work?
